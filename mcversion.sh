@@ -60,7 +60,6 @@ case $e in
                 ;;
 esac
 
-#Inform what the server has been updated to.
 echo 'server has been updated to' $version \n
 #Prompt user to start server
 while true; do
